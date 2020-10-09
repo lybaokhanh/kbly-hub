@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  mgmworkshop-chart:
+  - apiVersion: v1
+    created: "2020-10-09T11:09:44.1046534+07:00"
+    digest: d94d1c32a344b9cc984c0537329e8926c8f6ea8ba8033f1fe01edf8457894e07
+    name: mgmworkshop-chart
+    urls:
+    - https://lybaokhanh.github.io/kbly-hub/mgmworkshop-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-10-09T11:09:44.1026531+07:00"
